@@ -9,8 +9,8 @@
 - Youlun Wang
 
 ## Contents
-- Documents →  To-do list and ERD and Gyantt char t
+- Documents →  To-do list and ERD and Gyantt chart
 - Presentation -> Final presentation poerpoint file
-- Videos → Youtube link
+- Videos → Youtube link to presentation
 - Backup → Database backup file
 
