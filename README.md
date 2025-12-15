@@ -10,7 +10,7 @@
 
 ## Contents
 - Documents →  To-do list and ERD and Gyantt chart
-- Presentation -> Final presentation poerpoint file
+- Presentation -> Final presentation powerpoint file
 - Videos → Youtube link to presentation
 - Backup → Database backup file
 
